@@ -1,0 +1,8 @@
+http:
+ port: "8081"
+ path: get-empstatus
+db: 
+  host: localhost
+  port: "1521"
+  username: "![t+aQWRgkCqlo7O7Di5j1wQ==]"
+  password: "![P8dPZ5b3t8B+bIa4Rg0q+w==]"
